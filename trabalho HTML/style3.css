@@ -42,7 +42,7 @@
   }
 
   .gui_header {
-    background-color:rgba(0, 0, 0, 0.7);
+    /*background-color:rgba(0, 0, 0, 0.7);*/
     text-align: left;
     padding: 20px;
   }
